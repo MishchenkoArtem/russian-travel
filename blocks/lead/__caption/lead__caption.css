@@ -6,5 +6,13 @@
     color: #FFFFFF;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    margin: 0;
+    margin: 8px 0 0;
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 320px) {
+    .lead__caption {
+        font-size: 10px;
+        line-height: 14px;
+    }
 }

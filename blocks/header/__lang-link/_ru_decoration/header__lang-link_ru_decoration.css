@@ -1,5 +1,4 @@
 .header__lang-link_ru_decoration{
-    position: absolute;
-    right: 95px;
-    top: 46px;
+    margin: 0 18px 0 0;
+    text-decoration: underline;
 }
