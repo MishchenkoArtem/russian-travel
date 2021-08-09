@@ -1,0 +1,26 @@
+.intro__heading {
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 58px;
+    color: #FFF;
+    max-width: 690px;
+    text-align: left;
+    margin: 92px 0 0;
+}
+
+@media (max-width: 1023px) {
+    .intro__heading {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 88px 0 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .intro__heading {
+        font-size: 32px;
+        line-height: 35px;
+        margin: 64px 0 0;
+    }
+}
