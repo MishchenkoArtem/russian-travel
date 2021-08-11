@@ -3,13 +3,7 @@
 }
 
 @media (max-width: 1023px) {
-    .page__section_narrow {
-        padding: 0;
-    }
-}
-
-@media (max-width: 767px) {
-    .page__section_narrow {
+    .page__section_size_narrow {
         padding: 0;
     }
 }
